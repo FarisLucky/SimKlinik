@@ -1,0 +1,23 @@
+1. Data Obat (Tambah, Edit, Delete)
+2. Data Kategori dan Satuan Obat (Tambah, Edit, Delete)
+3. Data Pasien (Tambah, Edit, Delete)
+4. Data Penanganan (Tambah, Edit, Delete)
+5. Rekam Medis (Mulai Diagnosa, Keluhan => Penanganan, Resep Obat);
+6. Pembayaran (Pasien, Data Rekaman)
+7. Data Riwayat Pasien (Data Pasien, Hasil Rekaman, Total Periksa, Data Obat)
+
+
+pasien datang -> Daftar Pasien -> daftar antrian dan keluhan -> tunggu antrian
+ -> pasien dalam diagnosa => ( dokter menanyakan keluhan, dokter melihat riwayat
+pasien, rekam medis ) -> hasil rekaman =>( Penanganan , Obat , total biaya).
+
+Penyelesaian 
+Pasien membawa kartu Hasil Medis -> Input Data hasil rekaman -> Total Pembayaran ->
+Report Pasien.
+
+Laporan 
+Laporan Pasien (Data Pasien,Riwayat Pasien)
+Laporan Obat (Data Obat)
+
+
+https://www.youtube.com/watch?v=mIQoy19XQ5s&feature=youtu.be
